@@ -1,0 +1,10 @@
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\lcom\Desktop\VS\AspProjects\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
